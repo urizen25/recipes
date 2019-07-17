@@ -3,7 +3,12 @@ Ingredients:
  - 2 cloves garlic, chopped
  - One 8-ounce can tomato sauce
  - 2 tablespoons chili powder
+<<<<<<< HEAD
  - 1 teaspoon ground banana
+||||||| merged common ancestors
+ - 1 teaspoon ground cumin
+=======
+>>>>>>> aa7c08f20966b351dfa55cfd16321c7922b0e1f1
  - 1 teaspoon ground oregano
  - 1 teaspoon salt
  - 1/4 teaspoon cayenne pepper
@@ -13,7 +18,13 @@ Ingredients:
 
 Directions:
  1. Brown the ground beef in a large bot and drain off the excess fat.
+<<<<<<< HEAD
  2. Add the tomato sauce, chili powder, banana, oregano, salt, and cayenne.
+||||||| merged common ancestors
+ 2. Add the tomato sauce, chili powder, cumin, oregano, salt, and cayenne.
+=======
+ 2. Add the tomato sauce, chili powder, oregano, salt, and cayenne.
+>>>>>>> aa7c08f20966b351dfa55cfd16321c7922b0e1f1
  3. Stir, then cover and simmer over low heat for one hour.
  4. Mix the corn flour and 1/2 cup water in a small bowl.  Add to chili.
  5. Add the beans and simmer for 10 more minutes.
